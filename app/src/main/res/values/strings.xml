@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Book Store</string>
+    <string name="title_activity_display_book">DisplayBook</string>
+</resources>
